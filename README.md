@@ -11,5 +11,9 @@
 1. First thing
 2. Second thing
 3. Third thing
+<<<<<<< HEAD
 4. Forth thing
 5. Fifth thing
+=======
+5. Another thing
+>>>>>>> master
