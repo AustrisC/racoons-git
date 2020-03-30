@@ -2,4 +2,5 @@
 
 `TO-DO` list:
 1. Learn how to code
-2. Help others
+2. Start freelancing
+3. Help others
